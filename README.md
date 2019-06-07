@@ -8,7 +8,6 @@ Please [open an issue](https://github.com/hamburg-js/proposals/issues/new?templa
 
 ## Upcoming Meetups
 
-- Thursday, May 23rd, location and talks needed!
 - Tuesday, July 23rd, location and talks needed!
 - Monday, September 23rd, location and talks needed!
 - Wednesday, November 20th, location and talks needed!
