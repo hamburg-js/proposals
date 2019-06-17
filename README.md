@@ -19,6 +19,7 @@ If you would like to get in touch before actually submitting a talk, you are als
 ## FAQ
 
 - [for speakers](/speakers.md)
+- [for hosts](/hosts.md)
 
 ## Code of Conduct
 
