@@ -1,13 +1,13 @@
 ---
 name: Talk Proposal
-about: Propose a talk you would like to give at HamburgJS
+about: Propose a talk you would like to give at HH.js
 title: ''
 labels: 'feature-talk'
 assignees: ''
 
 ---
 
-## HamburgJS Talk Submission
+## HH.js Talk Submission
 
 **Talk Title:**
 
