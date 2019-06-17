@@ -4,7 +4,7 @@ If you would like to give a talk at [HH.js](https://www.meetup.com/hamburg-js/),
 
 ## Proposals
 
-Please [open an issue](https://github.com/hamburg-js/proposals/issues/new?template=talk-proposal.md) in this repository. In that issue, we ask you to outline the topic of your talk and to pick a couple of possible dates. Oh, and please let us know if you have already given it before.
+Please [open an issue](https://github.com/hamburg-js/proposals/issues/new?template=feature-talk.md) in this repository. In that issue, we ask you to outline the topic of your talk and to pick a couple of possible dates. Oh, and please let us know if you have already given it before.
 
 ## Upcoming Meetups
 
