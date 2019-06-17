@@ -2,7 +2,7 @@
 name: Talk Proposal
 about: Propose a talk you would like to give at HamburgJS
 title: ''
-labels: ''
+labels: 'feature-talk'
 assignees: ''
 
 ---
