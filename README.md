@@ -12,13 +12,13 @@ Please [open an issue](https://github.com/hamburg-js/proposals/issues/new?templa
 - Monday, September 23rd, location and talks needed!
 - Wednesday, November 20th, location and talks needed!
 
-## Technical Requirements
-
-We generally expect our hosts to provide Wifi, a video projector with HDMI/MiniDP connectors and a speaker microphone. If you have additional requirements (e.g. computer audio), please mention these in your proposal.
-
 ## Contact
 
 If you would like to get in touch before actually submitting a talk, you are also welcome, of course. Please use our [Meetup page](https://www.meetup.com/hamburg-js/), join our [#hhjs group](https://web-hh.slack.com/messages/C0KESM96C) in the open [WebHH Slack](https://web-hh-slackin.herokuapp.com/) or ping us on [Twitter](http://twitter.com/hhjs).
+
+## FAQ
+
+- [for speakers](/speakers.md)
 
 ## Code of Conduct
 
