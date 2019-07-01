@@ -41,4 +41,4 @@ Usually, attendees start arriving at 7pm, while the actual meetup starts at 7:30
 
 You will have up to 5 minutes at the beginning of the meetup to present your organisation. Additionally you are welcome to socialise with our attendees during breaks.
 
-_Current employees of hosts are not selected to give talks on the months of their employer's sponsorship._
+:warning: _Current employees of hosts are not selected to give talks on the months of their employer's sponsorship._
