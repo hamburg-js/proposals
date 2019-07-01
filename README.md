@@ -4,7 +4,10 @@ If you would like to give a talk at [HH.js](https://www.meetup.com/hamburg-js/),
 
 ## Proposals
 
-Please [open an issue](https://github.com/hamburg-js/proposals/issues/new?template=feature-talk.md) in this repository. In that issue, we ask you to outline the topic of your talk and to pick a couple of possible dates. Oh, and please let us know if you have already given it before.
+If you want to give a feature talk (length: 20 minutes), please [click here](https://github.com/hamburg-js/proposals/issues/new?template=feature-talk.md) to open an issue.\
+If you want to give a lightning talk (length: 5 minutes or less), please [click here](https://github.com/hamburg-js/proposals/issues/new?template=lightning-talk.md) to open an issue.
+
+In that issue, we ask you to outline the topic of your talk and to pick a couple of possible dates. In case of a feature talk please let us know if you have already given it before.
 
 ## Upcoming Meetups
 
