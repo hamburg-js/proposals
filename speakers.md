@@ -26,15 +26,15 @@ We usually select speakers two weeks before an event.
 
 :warning: _Current employees of hosts are not selected to speak on the months of their employer's sponsorship._
 
-## I have more questions about submitting talks, what should I do?
-Please feel free to ping us on twitter [@hhjs](https://twitter.com/hhjs) or join us in our [WebHH Slack](https://web-hh-slackin.herokuapp.com/) group [#hhjs](https://web-hh.slack.com/messages/C0KESM96C)
-
 # Speaking at HH.js
 We are excited to have you as a speaker! Below are a few things to keep in mind while you are preparing your talk.
-If you have any questions or want to discuss your talk with us beforehand, please feel free to ping us!
+If you have any questions or want to discuss your talk with us beforehand, please feel free to [ping us](#i-have-more-questions-about-submitting-talks-what-should-i-do)!
 
 ## How long is my talk?
 Talks are expected to be 20 minutes long, lightning talks should be limited to 5 minutes.
+
+## I have more questions about submitting talks, what should I do?
+Please feel free to ping us on twitter [@hhjs](https://twitter.com/hhjs) or join us in our [WebHH Slack](https://web-hh-slackin.herokuapp.com/) group [#hhjs](https://web-hh.slack.com/messages/C0KESM96C)
 
 ## Speaker Checklist
 ### Slides
