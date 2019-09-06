@@ -27,15 +27,26 @@ Some typical numbers from our last meetups:
 We expect you to provide WiFi, video projector(s) and ideally a microphone / audio setup.
 
 For video connectivity, we expect the following cables / adapters:
+
 - HDMI
 - Mini DisplayPort
 - USB-C
 
 Please [contact us](https://github.com/hamburg-js/proposals#contact) if you can't provide everything on this list, but still want to host a meetup.
 
-## What is the typical duration of a meetup?
+## What is the typical schedule of a meetup?
 
-Usually, attendees start arriving at 7pm, while the actual meetup starts at 7:30pm and ends before 10pm.
+- 18:30h - doors open
+- 19:00h - intro
+- 19:15h - first talk
+- 19:45h - break
+- 20:00h - second talk
+- 20:30h - break
+- 20:45h - lightning talks etc.
+- 21:30h - networking & Drinks
+- 22:00h - the end
+
+**Note:** Q&As should be time-boxed.
 
 ## Can we address the attendees?
 
