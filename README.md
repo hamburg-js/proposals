@@ -12,6 +12,9 @@ In that issue, we ask you to outline the topic of your talk and to pick a couple
 ## Upcoming Meetups
 
 - Wednesday, November 20th, location and talks needed!
+- Thursday, January 23rd, location and talks needed!
+- Monday, March 23rd, location and talks needed!
+- Tuesday, May 19th, location and talks needed!
 
 ## Contact
 
