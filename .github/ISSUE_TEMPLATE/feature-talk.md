@@ -1,6 +1,6 @@
 ---
 name: Talk Proposal
-about: Propose a 20 minute regular talk you would like to give at HH.js
+about: Propose a 20 - 45 minute regular talk you would like to give at HH.js
 title: ''
 labels: 'feature-talk'
 assignees: ''
