@@ -1,6 +1,6 @@
 ---
 name: Lightning Talk Proposal
-about: Propose a 5 minute lightning talk you would like to give at HH.js
+about: Propose a 5 - 15 minute lightning talk you would like to give at HH.js
 title: ''
 labels: 'lightning-talk'
 assignees: ''
