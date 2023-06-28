@@ -7,14 +7,14 @@ Please [get in touch with us](https://github.com/hamburg-js/proposals#contact) i
 
 ## How many attendees can we expect?
 
-Usually, there are about 80 - 100 people attending our meetup.
+Usually, there are about 30 - 50 people attending our meetup.
 Your room and facilities (seating) must be able to accomodate this number.
 
 ## What are the non-technical requirements?
 
 The venue needs to be accessible (signage and possibly access-control) from half an hour before the meetup starts and during breaks.
 
-Sufficient non-alcoholic drinks and beer are highly appreciated. Since our meetup is focused on technical content and networking, we kindly ask you to refrain from providing food.
+Sufficient non-alcoholic drinks and beer are highly appreciated. 
 
 Some typical numbers from our last meetups:
 
