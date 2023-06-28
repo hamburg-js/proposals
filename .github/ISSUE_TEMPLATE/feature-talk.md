@@ -14,9 +14,9 @@ assignees: ''
 
 **Name**:
 
-**Pronouns**:
+**Pronouns (optional)**:
 
-**Twitter Handle (optional)**:
+**Social Link (Twitter/Fediverse/LinkedIn/...) (optional)**:
 
 **Website (optional):**
 
