@@ -11,7 +11,7 @@ In that issue, we ask you to outline the topic of your talk and to pick a couple
 
 ## Upcoming Meetups
 
-- August 31, 2023 at CHECK24. Call for proposal is officially opened 🥳
+- December 12, 2023 at [Factorial](https://factorial.io). Call for proposal is officially opened 🥳
 
 ## Contact
 
